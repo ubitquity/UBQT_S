@@ -1,2 +1,2 @@
 # UBQT_S
-$UBQT_S Utility Token
+UBQT_S Utility Token
